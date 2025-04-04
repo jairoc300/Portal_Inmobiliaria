@@ -1,2 +1,27 @@
 # Portal_Inmobiliaria
--Desarrolló un portal web para una inmobiliaria, haciendo uso de VueJS como framework de desarrollo. https://portalinmobiliaria-960be.web.app
+# Prueba Portal-Inmobiliaria
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# Jairo Alejandro Gálvez Rodríguez
